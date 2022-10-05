@@ -1,0 +1,21 @@
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.csproj.AssemblyReference.cache
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc_MarkupCompile.cache
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc_MarkupCompile.lref
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\bin\Debug\net6.0-windows\Portfolio Calc.exe
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\bin\Debug\net6.0-windows\Portfolio Calc.deps.json
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\bin\Debug\net6.0-windows\Portfolio Calc.runtimeconfig.json
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\bin\Debug\net6.0-windows\Portfolio Calc.dll
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\bin\Debug\net6.0-windows\Portfolio Calc.pdb
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.g.resources
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.AssemblyInfoInputs.cache
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.AssemblyInfo.cs
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.csproj.CoreCompileInputs.cache
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.dll
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\refint\Portfolio Calc.dll
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.pdb
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\Portfolio Calc.genruntimeconfig.cache
+C:\Users\Sleep\source\repos\Calulator\Portfolio Calc\obj\Debug\net6.0-windows\ref\Portfolio Calc.dll
